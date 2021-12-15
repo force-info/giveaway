@@ -1,0 +1,16 @@
+{
+    "Bot_Info": {
+        "token": "NjkzOTU0MDY5Mzg3MDE4Mzcx.XoElFw.xTeh3GKQ7WdyZiWqURxcHtvu-W4",
+        "prefix": ">"
+    },
+
+   "Embed_Defaults": {
+       "EmbedColour": "RANDOM"
+   },
+
+   "Giveaway_Options": {
+       "everyoneMention": true,
+       "hostedBy": true
+   }
+
+}   
