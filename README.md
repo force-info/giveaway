@@ -1,5 +1,5 @@
 # Givaway bot 
 
-# By POLAT BOT 
+# By Karo BOT 
 
 # Node V12
